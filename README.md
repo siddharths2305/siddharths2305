@@ -10,7 +10,9 @@
 </p>
 
 📧 **Email Me:** [siddh448@gmail.com](mailto:siddh448@gmail.com)  
-for **Collaborations**, **Projects**, or just **Tech Talk** ⚡  
+For **Collaborations**, **Projects**, or just **Tech Talk**  
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23000000.svg?style=for-the-badge&logo=youtube&logoColor=%23FF0000)](https://youtube.com/@timelessstudio6286)
 
 ---
 
@@ -85,6 +87,14 @@ for **Collaborations**, **Projects**, or just **Tech Talk** ⚡
 </div>
 
 ---
+<p align="center">
+  <img 
+    src="https://github.com/siddharths2305/siddharths2305/blob/main/download%20(1).gif?raw=true" 
+    width="700" 
+    alt="Thank You GIF" 
+    style="border-radius: 50%; object-fit: cover; box-shadow: 0px 0px 15px rgba(0, 255, 255, 0.8);"
+  />
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=siddharths2305&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
@@ -95,22 +105,11 @@ for **Collaborations**, **Projects**, or just **Tech Talk** ⚡
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-
 ### 🐍 Contribution Snake
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-
 ---
-
-<div align="center">
-  <img src="https://i.pinimg.com/originals/0a/b4/6e/0ab46e1f3b1c0d693dd82c00f949a6e4.gif" width="500"/>
-  <br><br>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=siddharths2305&icon=6&color=12" alt="Profile Visits"/>
-  </a>
-</div>
-
 ---
 
 <!-- ⚡ Crafted with 💻 + 🎨 by Siddharth Singh | Inspired by Neon Nights -->
